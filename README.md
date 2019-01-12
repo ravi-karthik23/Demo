@@ -9,4 +9,4 @@ Adding more characters
 Learning GIt for devops. God, please bless me and make me successful
 Adding more changes here
 
-I hope this will not cause any issues!
+This is bound to create a conflict and a trouble
